@@ -1,7 +1,7 @@
 {
   "name": "reto-final",
   "version": "1.0.0",
-  "description": "",
+  "description": "Pruebas automatizadas con Playwright",
   "main": "index.js",
   "scripts": {},
   "keywords": [],
